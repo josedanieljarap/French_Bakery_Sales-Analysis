@@ -1,7 +1,7 @@
 # Bakery Sales Analysis
 
 ## Introduction
-This project involves a detailed analysis of a French bakery's sales data to identify trends and insights that can improve business operations. It showcases data manipulation, analysis, and visualization skills using Microsoft Excel.
+This project involves a detailed analysis of a bakery's sales data to identify trends and insights that can improve business operations. It showcases data manipulation, analysis, and visualization skills using Microsoft Excel.
 
 ## Methodology
 Data was collected, cleansed, and structured using Power Query and Excel functions. Interactive dashboards were created to facilitate dynamic exploration of sales by various dimensions.
